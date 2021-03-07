@@ -1,0 +1,1 @@
+// Create a class called Mountain with data members name, height and location. Define a member function to initialize the data members. A friend function cmpHeight() to compare height of two objects and member function displayInfo() to display information of mountain. In main create two objects of the class mountain and display the information of mountain with greatest height.
