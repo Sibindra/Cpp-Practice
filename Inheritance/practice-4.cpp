@@ -70,5 +70,4 @@ int main()
    obj.displayResult();
 
    return 0;
-
 }
