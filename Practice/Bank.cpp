@@ -36,6 +36,7 @@ int Bank::display()
 {
     cout << "Your account information is as follows:" << endl;
     cout << "Name: " << name << endl<< "Account number: " << account_no<<endl;
+
     system("clear");
 
     return 0;
