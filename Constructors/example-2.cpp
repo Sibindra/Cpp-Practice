@@ -22,6 +22,7 @@ class Construct
         int display()
         {
             cout<<"value of x= "<<x<<endl<<"value of y= "<<y<<endl;
+            return 0;
         }
 };
 
