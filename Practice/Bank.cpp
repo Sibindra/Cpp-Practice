@@ -94,7 +94,7 @@ int main()
 
     int choice;
 
-    cout<< endl<<"1.Withdraw/Deposit" << endl<< "2.Display Information" << endl<<"4.Exit"<<endl;
+    cout<< endl<<"1.Withdraw/Deposit" << endl<< "2.Display Information" << endl<<"3.Exit"<<endl;
 
     cout<<endl<< "Enter you choice:";
     cin >> choice;

@@ -1,2 +1,8 @@
+# ignore .exe files
+*.exe
+
+# files to ignore
 .vscode
 test.cpp
+
+
